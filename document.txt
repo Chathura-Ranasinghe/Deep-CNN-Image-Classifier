@@ -1,6 +1,0 @@
-python -m venv imgclassifier
-imgclassifier\Scripts\activate
-pip install ipykernel
-python -m ipykernel install --name=imgclassifier
-- jupyter kernelspec list
-- jupyter kernelspec imgclassifier 
