@@ -4,5 +4,3 @@ pip install ipykernel
 python -m ipykernel install --name=imgclassifier
 - jupyter kernelspec list
 - jupyter kernelspec imgclassifier 
-
-ud-fb2gtMSDauC:
